@@ -1,2 +1,1 @@
 # NoteApp
-# Hammasi cho'tki
